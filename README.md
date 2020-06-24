@@ -6,6 +6,7 @@ The following are the steps:
 
 ## 1. Release in Qt:
 When finishing editing the Qt, change from the **Debug** mode to the **Release** mode. (Graph) Then build and run it.
+![Release](Readme/Release.png)
 
 ## 2. Install CQt Deployer by snap:
 
