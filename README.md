@@ -2,7 +2,7 @@
 There are several tools and ways for the deployment of Qt for now. Since the [linuxdeployqt](https://github.com/probonopd/linuxdeployqt) requires a earlier version of linux system such as Ubuntu 14.0 to deploy Qts,
 I've been using [CQt Deployer](https://github.com/QuasarApp/CQtDeployer) to deploy the Qt for now. The method I'm using was to create an installer for the application so that when switching to a new device, installation should be done.
 
-The following is the steps[]:
+The following are the steps:
 
 ## 1. Release in Qt:
 When finishing editing the Qt, change from the **Debug** mode to the **Release** mode. (Graph) Then build and run it.
@@ -38,7 +38,7 @@ $chmod +x InstallerPercepQt.run
 Then follow the steps to install.
 
 
-# 5. Run!!!:
+## 5. Run!!!:
 After installation, cd to the file you installed and run the .sh file.
 ```c
 $cd ~PercepQt/PercepQt
